@@ -20,5 +20,3 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-![HaYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYeong&theme=chartreuse-dark&show_icons=true)
-
