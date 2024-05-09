@@ -23,3 +23,7 @@
 ## 🔗 Contact Me
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+## 📌Blog
+https://velog.io/@h3110_k/posts
+https://yyeongha.github.io/
