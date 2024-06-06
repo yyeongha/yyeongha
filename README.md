@@ -29,5 +29,3 @@
 
 ## 📌Blog
 https://yyeongha.github.io/
-
-https://velog.io/@h3110_k/posts
