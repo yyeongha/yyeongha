@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-## 💻 Workspace Specs
-
-![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-
 ## 🔨 Skills
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
