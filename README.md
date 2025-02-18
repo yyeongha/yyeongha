@@ -1,28 +1,17 @@
 ## AI Engineer, Hayeong Yang 👋
 
-### 🔨 Skills
+### **💻 About Me**
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I am a Junior AI Engineer currently working at a GeoAI company. My focus is on spatial data analysis, remote sensing, and GeoAI. I am passionate about processing geospatial data and transforming it into actionable insights that are truly useful.
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### **🔍 What Excites Me**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+I love exploring data science, machine learning, and deep learning for geospatial analysis and Earth observation. Tools such as Google Earth Engine, Rasterio, QGIS, geopandas, GDAL, and Folium are some of my favorite resources for tackling these challenges.
 
-### 🔗 Contact Me
-<a href="mailto:yha0719@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 💡 Knowledge Sharing
 
-<a href="https://www.linkedin.com/in/hayeong-yang">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Sharing knowledge is something that excites me deeply. During my university days, I had the opportunity to teach through volunteer work, and as a student teacher at an elder school. These experiences allowed me to pass on what I had learned. Now, I continue this passion by sharing my knowledge and projects through my blog and GitHub.
 
-### 📌Blog
-https://yyeongha.github.io/
+### **🔗 Let's Connect**
+
+I enjoy connecting with new people. Feel free to reach out to me via email at yha0719@gmail.com or through ![LinkedIn](https://www.linkedin.com/in/hayeong-yang). For more insights, please visit my ![blog](https://yyeongha.github.io/) where I share my work and ideas.
