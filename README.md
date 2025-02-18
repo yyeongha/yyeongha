@@ -1,4 +1,6 @@
-## AI Engineer, Hayeong Yang 👋
+## <center> AI Engineer, Hayeong Yang 👋 </center>
+
+<center> ![Rotating_earth_(large)_transparent](https://github.com/user-attachments/assets/16c34345-1809-4350-b9d9-5e957a2a2dd7) </center>
 
 ### **💻 About Me**
 
@@ -14,4 +16,4 @@ Sharing knowledge is something that excites me deeply. During my university days
 
 ### **🔗 Let's Connect**
 
-I enjoy connecting with new people. Feel free to reach out to me via email at yha0719@gmail.com or through ![LinkedIn](https://www.linkedin.com/in/hayeong-yang). For more insights, please visit my ![blog](https://yyeongha.github.io/) where I share my work and ideas.
+I enjoy connecting with new people. Feel free to reach out to me via email at yha0719@gmail.com or through [LinkedIn](https://www.linkedin.com/in/hayeong-yang). For more insights, please visit my [blog](https://yyeongha.github.io/) where I share my work and ideas.
