@@ -1,6 +1,6 @@
-## <center> AI Engineer, Hayeong Yang 👋 </center>
+<center> AI Engineer, Hayeong Yang 👋 </center>
 
-<center> ![Rotating_earth_(large)_transparent](https://github.com/user-attachments/assets/16c34345-1809-4350-b9d9-5e957a2a2dd7) </center>
+![Rotating_earth_(large)_transparent](https://github.com/user-attachments/assets/16c34345-1809-4350-b9d9-5e957a2a2dd7)
 
 ### **💻 About Me**
 
